@@ -2,7 +2,7 @@
 
 Бета-версия кошелька для Android 11 и новее. Интерфейс доступен на русском, английском и упрощённом китайском.
 
-**[Скачать TBCC WALLET 0.9.0 Beta 1 для Android](https://github.com/TBCCWALLET/downloads/releases/download/v0.9.0-beta.1/TBCC-WALLET.apk)**
+**[Скачать TBCC WALLET 0.9.1 Beta 1 для Android](https://github.com/TBCCWALLET/downloads/releases/download/v0.9.1-beta.1/TBCC-WALLET.apk)**
 
 Для первой установки откройте скачанный файл на телефоне и нажмите «Установить». Если кошелёк уже установлен, откройте APK и нажмите «Обновить». При обновлении сохраняются кошелёк и PIN.
 
@@ -14,4 +14,4 @@
 
 Чтобы посмотреть 24 слова выбранного кошелька, откройте «Настройки → Безопасность → Фраза восстановления» и подтвердите действие через Android. Если кошелёк создан до версии 0.7 и вы ещё не привязали его фразу, в этом разделе можно один раз ввести ранее записанные слова.
 
-Контрольная сумма позволяет проверить скачанный APK. [SHA-256 этой версии](https://github.com/TBCCWALLET/downloads/releases/download/v0.9.0-beta.1/SHA256SUMS.txt) · [Все выпуски](https://github.com/TBCCWALLET/downloads/releases)
+Контрольная сумма позволяет проверить скачанный APK. [SHA-256 этой версии](https://github.com/TBCCWALLET/downloads/releases/download/v0.9.1-beta.1/SHA256SUMS.txt) · [Все выпуски](https://github.com/TBCCWALLET/downloads/releases)
