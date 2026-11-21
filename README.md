@@ -1,11 +1,13 @@
-# TBCC WALLET для Android
+# TBCC WALLET для Android · Beta
 
-Кошелёк для переводов и обмена GRAM и TBCC. Поддерживает Android 11 и новее. Интерфейс доступен на русском, английском и китайском языках.
+Бета-версия кошелька для Android 11 и новее. Интерфейс доступен на русском, английском и упрощённом китайском.
 
-**[Скачать APK для Android](https://github.com/TBCCWALLET/downloads/releases/latest/download/TBCC-WALLET.apk)**
+**[Скачать TBCC WALLET 0.7.0 Beta 1 для Android](https://github.com/TBCCWALLET/downloads/releases/download/v0.7.0-beta.1/TBCC-WALLET.apk)**
 
 Для первой установки откройте скачанный файл на телефоне и нажмите «Установить». Если кошелёк уже установлен, откройте APK и нажмите «Обновить». При обновлении сохраняются кошелёк и PIN.
 
-В Mainnet доступны GRAM и TBCC. В Testnet используются тестовые GRAM и rUSDt. Текущая сеть видна на главном экране и перед подтверждением операции.
+В Mainnet можно получать и отправлять GRAM, TBCC и USDT, а также обменивать GRAM и TBCC. В Testnet используются тестовые GRAM и rUSDt. Выбранная сеть видна перед подтверждением операции.
 
-Контрольная сумма позволяет проверить скачанный APK. [SHA-256 последней версии](https://github.com/TBCCWALLET/downloads/releases/latest/download/SHA256SUMS.txt) · [Все выпуски](https://github.com/TBCCWALLET/downloads/releases)
+24 слова для восстановления доступны в разделе «Настройки → Безопасность → Фраза восстановления» после подтверждения через Android. Если кошелёк создан в предыдущей версии, сначала привяжите ранее записанные слова на телефоне.
+
+Контрольная сумма позволяет проверить скачанный APK. [SHA-256 Beta 1](https://github.com/TBCCWALLET/downloads/releases/download/v0.7.0-beta.1/SHA256SUMS.txt) · [Все выпуски](https://github.com/TBCCWALLET/downloads/releases)
